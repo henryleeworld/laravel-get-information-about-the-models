@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/LlPdl9W.png)
+![](https://i.imgur.com/oTGVTlk.png)
 > 每一個模型都會對應背後的資料表
