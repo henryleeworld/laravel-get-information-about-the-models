@@ -1,4 +1,4 @@
-# Laravel 10 取得模型資訊
+# Laravel 11 取得模型資訊
 
 引入 spatie 的 laravel-model-info 套件來擴增取得模型資訊，每個資料庫的表中都有一個對應的模型可以用來跟資料表互動。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Y7vSX5p.png)
+![](https://i.imgur.com/r2FaY2d.png)
 > 每一個模型都會對應背後的資料表
