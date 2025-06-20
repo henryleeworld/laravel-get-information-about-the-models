@@ -7,6 +7,9 @@ use Spatie\ModelInfo\ModelInfo;
 
 class ModelController extends Controller
 {
+    /**
+     * Display the specified resource.
+     */
     public function show() 
     {
         $userModelInfo = ModelInfo::forModel(User::class);
